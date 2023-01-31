@@ -1,5 +1,5 @@
 # wheel-of-balance
-https://anatol-1990.github.io/wheel-of-balance/
+https://ausievich.github.io/wheel-of-balance/
 
 Колесо баланса
 
